@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Personal Finances Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's a MERN stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand.
+In this app users will be able to sign up and create an account, post their thoughts, and interact with other users.
 
 ## Available Scripts
 
@@ -68,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Tech
+JavaScript
+GraphQL APIs
+MongoDB
+Express.js
+React
+Node.js
+Authentication (JWT)
