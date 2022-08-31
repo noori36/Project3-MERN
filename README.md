@@ -1,7 +1,6 @@
-# DropsWin
+# Personal Finances
 
-DropsWin is a E-Commerce website to buy sneakers from a website on the best possible deal. It's a full-stack web application which is design and build using the MVC paradigm, server-side API, user authentication, and a database.
-
+Social media app which allow users to sign up and create an account, post their thoughts, and interact with other users. 
 
 ## User Story
 AS A cosumer
@@ -45,9 +44,10 @@ To deploy this project:
 
 ## Tech Stack
 
-**Client:** Handlebars, HTML, CSS, Javascript
-
-**Server:** Node, Express, SQL, Sequelize
+- MongoDB
+- Express.js
+- React
+- Node.js
 
 
 
