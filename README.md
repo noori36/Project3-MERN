@@ -48,6 +48,8 @@ To deploy this project:
 - Express.js
 - React
 - Node.js
+- GraphQL
+- Authentication (JWT)
 
 
 
