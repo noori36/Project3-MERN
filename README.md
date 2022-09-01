@@ -54,7 +54,7 @@ To deploy this project:
 
 
 ## Deployed link of application
-[The URL of the deployed application on Heroku](https://peaceful-brook-72509.herokuapp.com)
+[The URL of the deployed application on Heroku](https://gentle-woodland-73615.herokuapp.com/)
 
 [The URL of the GitHub repository.](https://github.com/noori36/Project3-MERN)
 
