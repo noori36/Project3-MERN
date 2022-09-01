@@ -27,19 +27,19 @@ To deploy this project:
 
 ## Demo
 
-<br><img src="./screenshots/home.png" alt="home page" width="550"/>
+<br><img src="./screenshots/screenshot1.png" alt="home page" width="550"/>
 <br>
-<br><img src="./screenshots/Signup.png" alt="home page" width="550"/>
+<br><img src="./screenshots/screenshot2.png" alt="home page" width="550"/>
 <br>
-<br><img src="./screenshots/login.png" alt="home page" width="550"/>
-<br>confirm special character
-<br><img src="./screenshots/mainpage_loggedin.png" alt="home page" width="550"/>
+<br><img src="./screenshots/screenshot3.png" alt="home page" width="550"/>
 <br>
-<br><img src="./screenshots/redirect.png" alt="home page" width="550"/>
+<br><img src="./screenshots/screenshot4.png" alt="home page" width="550"/>
 <br>
-<br><img src="./screenshots/nike.png" alt="home page" width="550"/>
+<br><img src="./screenshots/screenshot5.png" alt="home page" width="550"/>
 <br>
-<br><img src="./screenshots/contact.png" alt="home page" width="550"/>
+<br><img src="./screenshots/screenshot6.png" alt="home page" width="550"/>
+<br>
+<br><img src="./screenshots/screenshot7.png" alt="home page" width="550"/>
 
 
 ## Tech Stack
